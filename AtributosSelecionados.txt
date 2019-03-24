@@ -1,0 +1,35 @@
+
+ Class Out: Only child
+
+Mrmr: [Number of siblings] 
+Dependence Criterion: [Number of siblings	Active sport	Dancing	PC	Passive sport	Responding to a serious letter] 
+Information Gain: [Number of siblings	Life struggles	Responding to a serious letter	Spending on looks	Mathematics	Fun with friends	Spending on healthy eating	Rats	Storm	Fantasy/Fairy tales] 
+Gain Ration: [Number of siblings	Fun with friends	Comedy	Life struggles	Responding to a serious letter	Happiness in life	Storm	Education	Spending on healthy eating	Mathematics] 
+
+ Class Out: Village - town
+
+Mrmr: [House - block of flats	Friends versus money	Punctuality	Geography	Only child	Punk	Height] 
+Dependence Criterion: [House - block of flats	Punk	Passive sport	War	Rats	Biology	Waiting] 
+Information Gain: [House - block of flats	Religion	Gardening	Friends versus money	Number of siblings	Storm	Countryside, outdoors	Punk	Final judgement	God] 
+Gain Ration: [House - block of flats	Movies	Gardening	Religion	Number of siblings	Storm	Friends versus money	Punctuality	Countryside, outdoors	Personality] 
+
+ Class Out: PC
+
+Mrmr: [Internet	Gender	Science and technology	Mathematics	Sci-fi	Cars	Daily events	Spending on gadgets	Height	Horror] 
+Dependence Criterion: [Internet	Science and technology	Spiders	God	History	Alternative	Borrowed stuff	Waiting] 
+Information Gain: [Internet	Science and technology	Gender	Height	Cars	Sci-fi	Physics	Action	Weight	Mathematics] 
+Gain Ration: [Gender	Internet	Weight	Science and technology	Height	Cars	Physics	Sci-fi	Action	Mathematics] 
+
+ Class Out: Science and technology
+
+Mrmr: [PC	Physics	Documentary	Cars	Branded clothing	Gender	Sci-fi	Adrenaline sports	Daily events	Funniness] 
+Dependence Criterion: [PC	Physics	Cars	Horror	Branded clothing	Spending on healthy eating	Pets] 
+Information Gain: [PC	Physics	Gender	Cars	Documentary	Height	Sci-fi	Spending on gadgets	Life struggles	Action] 
+Gain Ration: [Gender	Physics	PC	Height	Weight	Cars	Documentary	Sci-fi	Spending on gadgets	Western] 
+
+ Class Out: Internet
+
+Mrmr: [PC	Internet usage	Passive sport	Spending on gadgets	Pop	Movies	Action	Shopping	Reggae, Ska	Waiting] 
+Dependence Criterion: [PC	Shopping	Getting up	Psychology	Writing notes	Entertainment spending	Rats] 
+Information Gain: [PC	Spending on gadgets	Internet usage	Action	Cars	Shopping	Science and technology	Passive sport	Mathematics	Movies] 
+Gain Ration: [PC	Internet usage	Movies	Spending on gadgets	Action	Music	Comedy	Gender	Cars	Shopping] 
