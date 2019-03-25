@@ -4,6 +4,6 @@
 
 ## Uso
 
-Basta executar o arquivo script.py para analise dos atributos da base de dados e criação dos gráficos. Necessária edição do arquivo para utilizar novas bases de dados.
+Basta executar o arquivo script.py para analise dos atributos da base de dados e criação dos gráficos. Necessária edição do script para utilização em novas bases de dados.
 
 #### Procedimento custoso computacionalmente.
